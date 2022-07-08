@@ -1,0 +1,29 @@
+.movie_box {
+  border: 2.5px solid red;
+}
+.wrapper {
+  margin: 10px 10px 0 10px;
+  padding-left: 10px;
+
+  justify-content: space-around;
+    margin: 10px 10px 0 10px;
+    padding-left: 148px;
+}
+
+.card-body {
+  text-align: center;
+  box-shadow: 0 15px 15px -8px rgba(0, 0, 0, 0.5);
+}
+
+.card-body h6 {
+  text-transform: uppercase;
+}
+
+.card-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 24px;
+}
+body{
+  background-color: azure;
+}
